@@ -22,3 +22,9 @@ nav > ul > li > a{
     color: white;
     margin-right: 15px;
 }
+main{
+    border: 5px solid orange;
+    padding: 15px;
+    background-color: blue;
+    
+}
